@@ -4,3 +4,7 @@ novo projeto - sensacional
 * Martelo
 * Luva
 * Adobo
+
+[ ] PCManager
+[ ] CadizEFD
+[x] CadizMOB
